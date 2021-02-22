@@ -1,20 +1,22 @@
 {
   "schemaVersion": 1,
-  "id": "meteor-client",
+  "id": "Orbis",
   "version": "${version}",
 
-  "name": "Meteor Client",
-  "description": "Based utility mod.",
+  "name": "Orbis Client",
+  "description": "Orbis utility/hacked client.",
   "authors": [
-    "MineGame159",
-    "squidoodly",
-    "seasnail"
+    "Orbis client: AstroOrbis",
+    "Meteor client: MineGame159",
+    "Meteor client: squidoodly",
+    "Meteor client: seasnail"
   ],
   "contact": {
-    "homepage": "https://meteorclient.com",
-    "issues": "https://github.com/MeteorDevelopment/meteor-client/issues",
+    "Meteor homepage": "https://meteorclient.com",
+    "issues": "https://github.com/AstroOrbis/Orbis/issues",
     "sources": "https://github.com/MeteorDevelopment/meteor-client",
-    "discord": "https://meteorclient.com/discord"
+    "discord": "AstroOrbis#0623",
+     "Twitter": "https://twitter.com/AstroOrbis"
   },
 
   "license": "GPL-3.0",
