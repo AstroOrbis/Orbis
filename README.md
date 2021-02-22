@@ -1,6 +1,9 @@
 # Orbis
 An open-source client to be used on anarchy servers / any server really
 
+# Credits
+I used a lot of code from Meteor Client, look them up
+
 # Licence notes
 
 I will not be adding a licence because I can't find a license wich allows nobody to do anything to my code without permission. You have the following permissions:
@@ -14,6 +17,7 @@ Please make all forks into pull requests.
 1. Wait until I make the client
 2. Drag into .minecraft/mods
 3. Load up whatever forge version corresponds to your preferred release version (Currently NONE, 1.12.2 and 1.16.5 planned)
+4. Profit (or get instantly banned)
 
 # Reporting bugs / suggesting features
 
