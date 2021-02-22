@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "Orbis",
+  "id": "orbis",
   "version": "${version}",
 
   "name": "Orbis Client",
