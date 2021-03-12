@@ -66,7 +66,7 @@ processResources {
 	from(sourceSets.main.resources.srcDirs) {
 		include "fabric.mod.json"
 		expand "version": project.version
-		
+
 		filter { line -> line.replace("@devbuild@", System.getenv("CIRCLE_BUILD_NUM") != null ? System.getenv("CIRCLE_BUILD_NUM") : "") }
 	}
 
